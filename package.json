@@ -44,6 +44,6 @@
   "dependencies": {
     "@pinecone-database/pinecone": "^0.0.12",
     "dotenv": "^16.0.3",
-    "langchain": "^0.0.53"
+    "langchain": "^0.3.19"
   }
 }
